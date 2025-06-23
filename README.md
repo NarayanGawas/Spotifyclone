@@ -15,7 +15,7 @@ Screenshots
 ![image](https://github.com/user-attachments/assets/104cbbb8-2925-44ac-89a5-65b739eb6590)
 
  
-[View Live on GitHub Pages](https://narayangawas.github.io/Spotifyclone/)
+[View Live on GitHub Pages](https://NarayanGawas.github.io/Spotifyclone/)S
 
 Author
 Narayan Gawas
